@@ -1,5 +1,3 @@
-Link code on colab: https://colab.research.google.com/drive/1ni84NdphFoT6X9LSBlgUIS5ZxjLYk5Vw
-
 # Front-end
 Requires the installation of Nodejs
 ## 1. Install package:
